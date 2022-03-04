@@ -1,0 +1,15 @@
+html{
+    min-height: 50%;
+}
+
+body{
+    margin:15%;
+    padding: 0;
+    background-color: rgb(243, 183, 235);
+    min-height: 50%;
+    font-size: x-large;
+}
+
+header{
+    margin-top: 3rem;
+}
